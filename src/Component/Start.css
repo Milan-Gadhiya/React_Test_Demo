@@ -1,0 +1,10 @@
+main {
+    max-width: 500px;
+    background-color: #cfe8fc;
+    margin: auto;
+    padding: 20px;
+}
+
+.field {
+    margin: 20px auto;
+}
